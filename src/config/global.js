@@ -1,17 +1,18 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
+    componenteFormativo: 'Poscosecha',
+    descripcionCurso:
+      'Durante la fase de poscosecha se llevan a cabo una serie de operaciones y actividades de acondicionamiento, desinfección, empaque, almacenamiento y transporte, con el objetivo de evitar las pérdidas y conservar la calidad de los productos desde la producción (cosecha) hasta su comercialización, siendo de fundamental en todas y cada una de las etapas aplicar buenas prácticas de manufactura.',
+    imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.png'),
+    fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
+        imagen: require('@/assets/curso/banner-principal-decorativo-1.svg'),
       },
       {
         clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+        imagen: require('@/assets/curso/banner-principal-decorativo-2.svg'),
       },
     ],
   },
@@ -30,28 +31,80 @@ export default {
       },
       {
         nombreRuta: 'tema1',
+        icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Poscosecha',
         desarrolloContenidos: true,
         subMenu: [
           {
+            icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
+            titulo: 'Manejo poscosecha',
             hash: 't_1_1',
           },
         ],
       },
-
       {
         nombreRuta: 'tema2',
+        icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Limpieza',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
+        icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Desinfección',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '3.1',
+            titulo: 'Clasificación',
+            hash: 't_2_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '3.2',
+            titulo: 'Procedimiento y dosificación',
+            hash: 't_2_2',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema4',
+        icono: 'far fa-file-alt',
+        numero: '4',
+        titulo: 'Envase y empaques ',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema5',
+        icono: 'far fa-file-alt',
+        numero: '5',
+        titulo: 'Transporte',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '5.1',
+            titulo: 'Embalaje',
+            hash: 't_5_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '5.2',
+            titulo: 'Métodos de transporte',
+            hash: 't_5_2',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema6',
+        icono: 'far fa-file-alt',
+        numero: '6',
+        titulo: 'Herramientas, maquinaria y equipos',
         desarrolloContenidos: true,
       },
     ],
@@ -60,7 +113,6 @@ export default {
         icono: 'fas fa-sitemap',
         titulo: 'Síntesis',
         nombreRuta: 'sintesis',
-        desarrolloContenidos: true,
       },
       {
         nombreRuta: 'actividad',
@@ -100,34 +152,150 @@ export default {
       },
     ],
   },
-  complementario: [
+  referencias: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      referencia:
+        'Borrero Ortiz, M., & Urrea López, M. (2007). Modulo Poscosecha. Escuela de Ciencias Agrícolas, Pecuarias y del Medio Ambiente.',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      referencia:
+        'Chala, L. A. (2009). Empaques y embalajes para exportación. Cámara de comercio de Bogotá, Bogotá, Colombia, 19-26.',
+    },
+    {
+      referencia:
+        'Colombia, P. (2003). Cartilla empaques y embalajes para exportación. Proexport Colombia.',
+    },
+    {
+      referencia:
+        'Ministerio de salud pública. (1979). Decreto 3075 de 1995. Buenas prácticas de manufactura.',
+    },
+    {
+      referencia: 'Ministerio de salud pública. (2013). Decreto 2674 de 2013.',
+    },
+    {
+      referencia:
+        'Ministerio de Agricultura. (2016) Convenio 20160339. Módulo 2. Buenas prácticas de manufactura es la postcosecha BPM.',
+    },
+    {
+      referencia:
+        'Norma Técnica Colombiana NTC 5422. (2007). Empaque y embalaje de frutas, hortalizas y tubérculos frescos.',
+    },
+    {
+      referencia:
+        'Ponce D’León, L. F., & Rodríguez Hernández, A. (1992). Buenas prácticas de manufactura vigentes y su relación con la garantía de calidad. Revista Colombiana de Ciencias Químico-Farmacéuticas, 20(1), 63-68',
+      link:
+        'https://revistas.unal.edu.co/index.php/rccquifa/article/view/56533',
+    },
+    {
+      referencia:
+        'Salguero R, S. I., & Gutiérrez, A (2009). Sistemas de empaque, envase, embalaje y etiquetas. Cámara de comercio de Bogotá, Bogotá, Colombia,',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Texto de la definición',
+      termino: 'Buenas prácticas de manufactura BPM',
+      significado:
+        'conjunto de medidas mínimas de higiene necesarias para evitar la contaminación y así lograr obtener productos inocuos y seguros para el consumo, debido a que se enfocan en la higiene, manipulación y seguridad de los alimentos.',
     },
     {
-      termino: '<em>Término con extranjerismo</em>',
-      significado: 'Definición',
+      termino: 'Desinfección',
+      significado:
+        'destruir microorganismos que puedan causar infección. Labor que se realiza para eliminar impurezas y agentes patógenos tales como bacterias, virus y hongos.',
+    },
+    {
+      termino: 'Embalaje',
+      significado:
+        'recipiente o envoltura que contiene productos temporalmente y sirve principalmente para agrupar unidades de un producto pensando en su manipulación, transporte y almacenaje',
+    },
+    {
+      termino: 'Empaque',
+      significado:
+        'recipiente o envoltura que contenga algún producto de consumo para su entrega o exhibición a los consumidores-',
+    },
+    {
+      termino: 'Equipo',
+      significado:
+        'es el conjunto de maquinaria, utensilios, recipientes, tuberías, vajillas y demás accesorios que se empleen en la fabricación, procesamiento, preparación, envase, fraccionamiento, almacenamiento, distribución, transporte, y expendio de alimentos y sus materias primas.',
+    },
+    {
+      termino: 'Inocuidad',
+      significado:
+        'garantía de que los alimentos no causarán daños al consumidor cuando se preparen y/o consuman.',
+    },
+    {
+      termino: 'Limpieza',
+      significado:
+        'proceso u operación de eliminación de residuos de alimentos u otras materias extrañas o indeseables.',
+    },
+    {
+      termino: 'Manejo poscosecha',
+      significado:
+        'conjunto de actividades realizadas a partir de la recolección de los productos y que están encaminadas a mantener la calidad de estos hasta su consumo.',
+    },
+    {
+      termino: 'Peligro',
+      significado:
+        'agente biológico, químico o físico presente en los alimentos, o una propiedad de éste, que pueda provocar un efecto nocivo para la salud.',
+    },
+    {
+      termino: 'Perecedero',
+      significado: 'alimento que tiene una vida corta',
+    },
+    {
+      termino: 'Poscosecha',
+      significado:
+        'lapso o periodo que transcurre desde el momento mismo en que el producto es retirado de su fuente natural y acondicionado en la finca hasta el momento en que es consumido bajo su forma original o sometido a la preparación culinaria o al procesamiento y transformación industrial.',
+    },
+    {
+      termino: 'Riesgo',
+      significado:
+        'unción de la probabilidad de un efecto nocivo para la salud y de la gravedad de dicho efecto, como consecuencia de un peligro o peligros presente en los alimentos',
     },
   ],
-  referencias: [
+  complementario: [
     {
-      referencia: '',
-      link: '',
+      tema: 'Poscosecha',
+      referencia:
+        'Villamizar de Borrero, F., & Ospina Camacho, J. E. (2000). Frutas y hortalizas: manejo tecnológico postcosecha.',
+      tipo: 'Artículo',
+      link: 'https://repositorio.sena.edu.co/handle/11404/4707',
+    },
+    {
+      tema: 'Limpieza',
+      referencia:
+        'Nayla Redondo Noches. (2022, 17 de enero). Cultura en higiene alimentaria.  Calidad e inocuidad. Limpieza y desinfección. [Video].',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=nx9cVkJiVcc',
+    },
+    {
+      tema: 'Desinfección',
+      referencia:
+        'Garmendia, G., & Vero, S. (2006). Métodos para la desinfección de frutas y hortalizas. Horticultura, 197, 18-27.',
+      tipo: 'Artículo',
+      link:
+        'https://www.researchgate.net/profile/Silvana-Vero/publication/28282408_Metodos_para_la_desinfeccion_de_frutas_y_hortalizas/links/571c023d08ae408367bd7448/Metodos-para-la-desinfeccion-de-frutas-y-hortalizas.pdf',
+    },
+    {
+      tema: 'Desinfección',
+      referencia:
+        'García-Robles, J. M., Medina-Rodríguez, L. J., Mercado-Ruiz, J. N., & Báez-Sañudo, R. (2017). Evaluación de desinfectantes para el control de microorganismos en frutas y verduras. Revista Iberoamericana de Tecnología Postcosecha, 18(1), 9-22.',
+      tipo: 'Artículo',
+      link: 'https://www.redalyc.org/journal/813/81351597002/html/',
+    },
+    {
+      tema: 'Envases y empaques',
+      referencia:
+        'Ospina Arias, J. C. (2015). Fundamentos de envases y embalajes.',
+      tipo: 'Artículo',
+      link:
+        'https://repositorio.sena.edu.co/bitstream/handle/11404/2526/fundamentos_envases_embalajes.pdf?sequence=1&isAllowed=y',
+    },
+    {
+      tema: 'Envases y empaques',
+      referencia:
+        'López Millán, M., & Díaz Gutiérrez, A. (2001). Empaques y embalajes para frutas y hortalizas frescas.',
+      tipo: 'Artículo',
+      link: 'https://repositorio.sena.edu.co/handle/11404/6514',
     },
   ],
   creditos: [
@@ -135,85 +303,31 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Responsable del Ecosistema',
-          centro: 'Dirección General',
+          nombre: 'Yisela Andrea Vidales Vásquez',
+          cargo: 'Experta Temática ',
+          centro: 'Regional Tolima, Centro de Comercio y Servicios',
         },
         {
-          nombre: 'Olga Constanza Bermúdez Jaimes',
-          cargo: 'Responsable de Línea de Producción',
-          centro:
-            'Centro de Servicios de Salud - Regional Antioquia',
-        },
-      ],
-    },
-    {
-      titulo: 'CONTENIDO INSTRUCCIONAL',
-      autores: [
-        {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro:
-            'Centro de Servicios de Salud - Regional Antioquia',
-        },
-      ],
-    },
-    {
-      titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
-      autores: [
-        {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de Contenidos Digitales',
-          centro:
-            'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Gloria Alexandra Orejarena Barrios',
+          cargo: 'Diseñadora Instruccional',
+          centro: 'Regional Distro Capital Centro de Gestión Industrial',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Desarrollador Fullstack',
-          centro:
-            'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Ana Catalina Córdoba Sus',
+          cargo: 'Asesora Metodológica',
+          centro: 'Regional Distrito Capital – Centro de Diseño y Metrología.',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Responsable Equipo Desarrollo Curricular',
           centro:
-            'Centro de Servicios de Salud - Regional Antioquia',
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura.',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Actividad Didáctica',
-          centro:
-            'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Sandra Patricia Hoyos Sepúlveda',
+          cargo: 'Corrección de estilo',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
-      ],
-    },
-    {
-      titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
-      autores: [
-        {
-          nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro:
-            'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Jaime Hernan Tejada',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro:
-            'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Daniel Ricardo Mutis Gómez',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro:
-            'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Margarita Marcela Medrano',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro:
-            'Centro de Servicios de Salud - Regional Antioquia',
-        }
       ],
     },
   ],
