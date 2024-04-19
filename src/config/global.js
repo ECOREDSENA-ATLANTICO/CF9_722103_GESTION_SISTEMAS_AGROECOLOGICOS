@@ -14,6 +14,14 @@ export default {
         clases: ['banner-principal-decorativo-2'],
         imagen: require('@/assets/curso/banner-principal-decorativo-2.svg'),
       },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/banner-principal-decorativo-1.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-4'],
+        imagen: require('@/assets/curso/banner-principal-decorativo-2.svg'),
+      },
     ],
   },
   menuPrincipal: {
@@ -293,39 +301,97 @@ export default {
       link: 'https://repositorio.sena.edu.co/handle/11404/6514',
     },
   ],
-  creditos: [
-    {
-      titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
-      autores: [
-        {
-          nombre: 'Yisela Andrea Vidales Vásquez',
-          cargo: 'Experta Temática ',
-          centro: 'Regional Tolima, Centro de Comercio y Servicios',
-        },
-        {
-          nombre: 'Gloria Alexandra Orejarena Barrios',
-          cargo: 'Diseñadora Instruccional',
-          centro: 'Regional Distro Capital Centro de Gestión Industrial',
-        },
-        {
-          nombre: 'Ana Catalina Córdoba Sus',
-          cargo: 'Asesora Metodológica',
-          centro: 'Regional Distrito Capital – Centro de Diseño y Metrología.',
-        },
-        {
-          nombre: 'Rafael Neftalí Lizcano Reyes',
-          cargo: 'Responsable Equipo Desarrollo Curricular',
-          centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura.',
-        },
-        {
-          nombre: 'Sandra Patricia Hoyos Sepúlveda',
-          cargo: 'Corrección de estilo',
-          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
-        },
-      ],
-    },
-  ],
+  creditos: {
+    liderEquipo: [
+      {
+        nombre: 'Tatiana Villamil',
+        cargo: 'Responsable del equipo',
+        centro: 'Dirección General',
+      },
+      {
+        nombre: 'Miguel De Jesús Paredes Maestre',
+        cargo: 'Responsable de línea de producción',
+        centro:
+          'Regional Atlántico -Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga',
+      },
+    ],
+    contenidoInstruccional: [
+      {
+        nombre: 'Yisela Andrea Vidales Vásquez',
+        cargo: 'Experta Temática ',
+        centro: 'Regional Tolima, Centro de Comercio y Servicios',
+      },
+      {
+        nombre: 'Gloria Alexandra Orejarena Barrios',
+        cargo: 'Diseñadora Instruccional',
+        centro: 'Regional Distrito Capital – Centro de Diseño y Metrología',
+      },
+      {
+        nombre: 'Ana Catalina Córdoba Sus',
+        cargo: 'Asesoría metodológica',
+        centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+      },
+      {
+        nombre: 'Rafael Neftalí Lizcano Reyes',
+        cargo: 'Responsable Equipo Desarrollo Curricular',
+        centro: 'Regional Distrito Capital – Centro de Diseño y Metrología.',
+      },
+      {
+        nombre: 'Sandra Patricia Hoyos Sepúlveda',
+        cargo: 'Corrección de estilo',
+        centro: 'Regional Distrito Capital – Centro de Diseño y Metrología.',
+      },
+      {
+        nombre: 'Francisco José Lizcano Reyes',
+        cargo: 'Responsable del equipo',
+        centro:
+          'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+      },
+      {
+        nombre: 'Leyson Fabian Castaño Perez',
+        cargo: 'Soporte organizacional',
+        centro: 'Regional Tolima - Centro de Comercio y Servicios',
+      },
+    ],
+    desarrolloProducto: [
+      {
+        nombre: 'Yuly Andrea Rey Quiñonez',
+        cargo: 'Diseñador web',
+        centro:
+          'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+      },
+      {
+        nombre: 'Jhon Edinson Castañeda Oviedo',
+        cargo: 'Desarrollo Fullstack',
+        centro:
+          'Regional Santander -Centro Industrial del Diseño y la Manufactura ',
+      },
+      {
+        nombre: 'Álvaro Guillermo Araújo Angarita',
+        cargo: 'Desarrollo Fullstack',
+        centro:
+          'Regional Atlántico - Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga',
+      },
+      {
+        nombre: 'Antonio Vecino Valero',
+        cargo: 'Diseño de contenidos digitales',
+        centro:
+          'Regional Atlántico -Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga',
+      },
+      {
+        nombre: 'Carolina Coca Salazar',
+        cargo: 'Evaluador para contenidos inclusivos y accesibles',
+        centro:
+          'Regional Atlántico -Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga',
+      },
+      {
+        nombre: 'Juan Carlos Cardona Acosta',
+        cargo: 'Validación de recursos digitales ',
+        centro:
+          'Regional Atlántico -Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga',
+      },
+    ],
+  },
   creditosAdicionales: {
     imagenes:
       'Fotografías y vectores tomados de <a href="https://www.freepik.es/" target="_blank">www.freepik.es</a>, <a href="https://www.shutterstock.com/" target="_blank">www.shutterstock.com</a>, <a href="https://unsplash.com/" target="_blank">unsplash.com </a>y <a href="https://www.flaticon.com/" target="_blank">www.flaticon.com</a>',
