@@ -52,7 +52,7 @@
     figure.mb-4
         img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/tema2/img25.svg', alt='')
         h2.d-inline-block.mb-0 Métodos húmedos
-    p.mb-4 La limpieza mediante métodos húmedos requiere del empleo de agua y, en algunas ocasiones para mejorar el resultado se agrega soluciones o productos químicos con propiedades desinfectantes. Por tanto, mediante este método no solo se logra eliminar materiales extraños y contaminantes, sino que también se puede remover los residuos de fertilizantes y agroquímicos. Ahora revisemos cuales son los métodos húmedos más empleados: 
+    p.mb-4 La limpieza mediante métodos húmedos requiere del empleo de agua y en algunas ocasiones para mejorar el resultado se agrega soluciones o productos químicos con propiedades desinfectantes. Por tanto, mediante este método no solo se logra eliminar materiales extraños y contaminantes, sino que también se puede remover los residuos de fertilizantes y agroquímicos. Ahora revisemos cuales son los métodos húmedos más empleados: 
 
 
     .row.justify-content-center.mb-5

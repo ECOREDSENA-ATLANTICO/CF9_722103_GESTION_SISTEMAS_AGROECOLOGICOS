@@ -16,7 +16,7 @@
         .cajon.p-4.ps-5.mb-4.clr--lightorange
           p La poscosecha es el tiempo comprendido desde que el producto es recolectado o cosechado hasta su comercialización y ser consumido, sea fresco o procesado. Durante este periodo se realiza un manejo que consiste en una serie de procesos y actividades de acondicionamiento y transformación que permiten retirar elementos no deseados, mejorar la presentación, higiene y calidad nutricional de los productos y, así facilitar su comercialización, incrementando los ingresos de los productores y la utilidad en la industria.
         p Estas actividades permiten conservar y cumplir con normas de la calidad del producto y evitar o minimizar las pérdidas de producción (directas e indirectas) y económicas, generadas en cualquier etapa (producción, almacenamiento, distribución) debido a la inadecuada manipulación, por el comportamiento y características propias del producto o por factores culturales, socioeconómicos y tecnológicos (como microbiológicos, biológicas, químicas, físicas o mecánicas), las cuales se agudizan por no implementar o realizar un mal manejo poscosecha.
-        p En la siguiente figura, se pueden observar las diferentes clases de pérdidas que se pueden dar en la poscosecha:
+        p En la siguiente figura, se puede apreciar las diferentes clases de pérdidas que se pueden dar en la poscosecha:
 
     .titulo-sexto.color-acento-contenido(data-aos="fade-right")
       h5 Figura 1.
@@ -116,7 +116,8 @@
         .row
           .col-md-6.mb-4.mb-md-0
             h4 Selección
-            p Es la operación inicial del acondicionamiento y se realiza después de la cosecha, cuando los productos se transportan e ingresan al lugar del manejo poscosecha. En esta etapa se lleva a cabo la caracterización y procedencia del producto, además de un análisis de las condiciones en que se recibió mediante un muestreo al azar.          
+            p Consiste en descartar todos aquellos productos que presenten daños o defectos como roturas, magulladuras, deformaciones o algún grado de descomposición que comprometan su calidad para su comercialización y procesamiento.
+         
           .col-md-6
             figure
               img(src='@/assets/curso/tema1/img10.png', alt='Texto que describa la imagen')

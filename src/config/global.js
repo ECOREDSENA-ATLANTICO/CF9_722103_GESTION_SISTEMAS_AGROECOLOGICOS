@@ -121,6 +121,7 @@ export default {
         icono: 'fas fa-sitemap',
         titulo: 'Síntesis',
         nombreRuta: 'sintesis',
+        desarrolloContenidos: true,
       },
       {
         nombreRuta: 'actividad',
@@ -170,14 +171,14 @@ export default {
     },
     {
       referencia:
+        'Ministerio de Agricultura. (2016) Convenio 20160339. Módulo 2. Buenas prácticas de manufactura es la postcosecha BPM.',
+    },
+    {
+      referencia:
         'Ministerio de salud pública. (1979). Decreto 3075 de 1995. Buenas prácticas de manufactura.',
     },
     {
       referencia: 'Ministerio de salud pública. (2013). Decreto 2674 de 2013.',
-    },
-    {
-      referencia:
-        'Ministerio de Agricultura. (2016) Convenio 20160339. Módulo 2. Buenas prácticas de manufactura es la postcosecha BPM.',
     },
     {
       referencia:
@@ -340,17 +341,6 @@ export default {
         nombre: 'Sandra Patricia Hoyos Sepúlveda',
         cargo: 'Corrección de estilo',
         centro: 'Regional Distrito Capital – Centro de Diseño y Metrología.',
-      },
-      {
-        nombre: 'Francisco José Lizcano Reyes',
-        cargo: 'Responsable del equipo',
-        centro:
-          'Regional Santander - Centro Industrial del Diseño y la Manufactura',
-      },
-      {
-        nombre: 'Leyson Fabian Castaño Perez',
-        cargo: 'Soporte organizacional',
-        centro: 'Regional Tolima - Centro de Comercio y Servicios',
       },
     ],
     desarrolloProducto: [

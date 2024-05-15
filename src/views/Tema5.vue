@@ -34,8 +34,8 @@
                 figure
                   img.mb-4.img-t.m-auto(src='@/assets/curso/tema5/img62.png', alt='')
               .col-lg-8
-                h6 Riesgos mecánicos
-                p Impactos y choques producidos por caídas durante las operaciones de carga y descarga; los esfuerzos de compresión producidos durante el almacenamiento en fábrica o durante el transporte cuando los productos están apilados, y las vibraciones producidas por el movimiento de los medios de transporte.
+                h6 Riesgo Biológicos
+                p Hace referencia a la afectación por microorganismos, insectos y roedores.
 
           .p-4.clr--lightgray.mb-2(data-aos="fade-left")
             .row
@@ -74,7 +74,7 @@
           figure.mb-4
             img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/tema5/img67.svg', alt='')
         .col-lg-11
-          p.mb-5 Los empaques cumplen diferentes funciones, las cuales como se observa en la figura 5 se pueden clasificar de forma general en proteger, conservar y distribuir. Es decir, los empaques tienen la función de contener el producto para mostrarlo en las condiciones y cantidades demandadas por el consumidor, proteger los artículos de los diferentes riesgos y factores externos que puedan generar deterioro manteniendo su calidad y facilitar la manipulación, distribución y transporte; a continuación se presentan algunas de las funciones de los empaques:
+          p.mb-5 El embalaje hace referencia al tipo de empaque terciario y se encarga de brindar la protección requerida para resistir todos los riesgos a los que está expuesto el producto a lo largo del almacenamiento, transporte y distribución. Al igual que los empaques, existen diferentes tipos de embalajes, los cuales se pueden clasificar de acuerdo al material empleado para proteger y conservar el producto, por ejemplo, pueden ser de madera (cajas, guacales y estibas), fibras naturales (sacos), papel, vidrio, metal, plásticos (garrafas, tambores, bidones, cuñete, toneles), como se puede evidenciar en la siguiente tabla.
 
             
       .row.mb-5
@@ -135,7 +135,7 @@
                       | Presentan buena resistencia a la flexión, a la comprensión y al impacto.
                     li
                       i.fas.fa-chevron-right
-                      | Electrodomésticos, máquinas industriales y productos a granel.
+                      | La densidad, humedad y dureza de la madera afectan la calidad de los embalajes.
                     li
                       i.fas.fa-chevron-right
                       | Su utilización está sujeta a restricciones medioambientales.
@@ -265,7 +265,7 @@
           img.img-t.m-auto(src='@/assets/curso/tema5/img60.png', alt='')
       .col-lg-8(data-aos="fade-right")
         .cajon.p-4.ps-5.mb-4.clr--lightgreen2
-          p.mb-0 El transporte consiste en movilizar los productos a diferentes destinos internos (cultivo al lugar de poscosecha) y externos (hacia la comercialización y consumidor) para lo cual se emplean vehículos y embalajes que deben proporcionar condiciones idóneas, además de comodidad, higiene e inocuidad, evitando generar daños, deterioro, contaminación física, química y microbiana y pérdidas de producto. 
+          p.mb-0 Como lo indica la Cartilla empaques y embalajes para exportación (Colombia, P. 2003), existen aspectos importantes que deben ser tenidos en cuenta a la hora de seleccionar el material de embalaje y empaque, por ejemplo, deben tener compatibilidad con el producto a contener, propiedades de protección y estabilidad, operabilidad, conveniencia, aspectos mercadológicos, económicos y legales, disponibilidad y factibilidad. Además de resistencia la cual se establece en relación a la facultad de sostener y resistir el producto a empacar, es decir si se pueden apilar y logran soportan encima sin dañarse varias veces su propio peso, clasificándose en autoportantes, semiportantes y no autoportantes, tal como se puede apreciar a continuación
       
     .tarjeta.p-4.mb-5.clr-paleYellow
       SlyderA(tipo="b")
@@ -296,7 +296,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
             h4 Propiedades de estabilidad 
-            p Consiste en separar en diferentes categorías según sus propiedades mas relevantes, como por ejemplo, por variedad, tamaño, forma, color, grado de madurez, textura, ausencia de daños, peso, etc.
+            p Se refiere a la actitud del empaque para no presentar modificaciones de su estructura debido al contacto con el producto o con agentes externos. Algunos materiales de empaque presentan cambios en su estructura al pasar de unas condiciones a otras. El polipropileno, por ejemplo, se vuelve frágil cuando se somete a bajas temperaturas.
           .col-md-6
             figure
               img(src='@/assets/curso/tema5/img72.png', alt='Texto que describa la imagen')

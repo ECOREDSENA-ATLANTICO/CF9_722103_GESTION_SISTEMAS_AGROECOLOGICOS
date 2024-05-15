@@ -96,175 +96,167 @@
         .col-md-4.col-lg.mb-5.mb-lg-0
           .tarjeta-avatar
             img.img-t(src='@/assets/curso/tema3/img38.svg' alt='AvatarTop')
-            .tarjeta.bg2
-              p.p-4.mb-0.text-center 
+            .tarjeta.bg4
+              p.p-3.pt-4.mb-0.text-center 
                 strong Hipoclorito de sodio, hipoclorito de calcio, cloraminas etc.
 
-              AcordionA(tipo="a" clase-tarjeta="tarjeta")
-                .row(titulo="Ventajas")
-                  ul.lista-ul--color.lista-ul--separador
-                    li 
-                      i.fas.fa-chevron-right
-                      | Aprobados por la industria de los alimentos.
-                    li 
-                      i.fas.fa-chevron-right
-                      | Tienen amplio espectro.
-                    li 
-                      i.fas.fa-chevron-right
-                      | Económicos.
-                    li 
-                      i.fas.fa-chevron-right
-                      | Acción rápida.
-                    li 
-                      i.fas.fa-chevron-right
-                      | No son selectivos.
-                    li 
-                      i.fas.fa-chevron-right
-                      | Fáciles de adquirir y dosificar.
-                    li 
-                      i.fas.fa-chevron-right
-                      | Facilidad para enjuagar.
-                    li 
-                      i.fas.fa-chevron-right
-                      | No forma espuma
+            AcordionA(tipo="a" clase-tarjeta="tarjeta").acordion_fixed
+              .row(titulo="Ventajas")
+                ul.lista-ul--color.lista-ul--separador
+                  li 
+                    i.fas.fa-chevron-right
+                    | Aprobados por la industria de los alimentos.
+                  li 
+                    i.fas.fa-chevron-right
+                    | Tienen amplio espectro.
+                  li 
+                    i.fas.fa-chevron-right
+                    | Económicos.
+                  li 
+                    i.fas.fa-chevron-right
+                    | Acción rápida.
+                  li 
+                    i.fas.fa-chevron-right
+                    | No son selectivos.
+                  li 
+                    i.fas.fa-chevron-right
+                    | Fáciles de adquirir y dosificar.
+                  li 
+                    i.fas.fa-chevron-right
+                    | Facilidad para enjuagar.
+                  li 
+                    i.fas.fa-chevron-right
+                    | No forma espuma
 
 
-                div(titulo="Desventajas")
-                  ul.lista-ul--color.lista-ul--separador
-                    li 
-                      i.fas.fa-chevron-right
-                      | Corrosivos.
-                    li 
-                      i.fas.fa-chevron-right
-                      | Tóxicos.
-                    li 
-                      i.fas.fa-chevron-right
-                      | Tienen olor, sabor.
-                    li 
-                      i.fas.fa-chevron-right
-                      | Son viscosos.
-                    li 
-                      i.fas.fa-chevron-right
-                      | No actúan en agua caliente superior a 42°C.
-                    li 
-                      i.fas.fa-chevron-right
-                      | Pierde fácil su acción en presencia de materia orgánica.
-                    li 
-                      i.fas.fa-chevron-right
-                      | Su pH mas eficaz es de 7.5 – 8.0.
+              div(titulo="Desventajas")
+                ul.lista-ul--color.lista-ul--separador
+                  li 
+                    i.fas.fa-chevron-right
+                    | Corrosivos.
+                  li 
+                    i.fas.fa-chevron-right
+                    | Tóxicos.
+                  li 
+                    i.fas.fa-chevron-right
+                    | Tienen olor, sabor.
+                  li 
+                    i.fas.fa-chevron-right
+                    | Son viscosos.
+                  li 
+                    i.fas.fa-chevron-right
+                    | No actúan en agua caliente superior a 42°C.
+                  li 
+                    i.fas.fa-chevron-right
+                    | Pierde fácil su acción en presencia de materia orgánica.
+                  li 
+                    i.fas.fa-chevron-right
+                    | Su pH mas eficaz es de 7.5 – 8.0.
 
 
         .col-md-4.col-lg.mb-5.mb-lg-0
           .tarjeta-avatar
             img.img-t(src='@/assets/curso/tema3/img39.svg' alt='AvatarTop')
-            .tarjeta.bg2
-                p.p-4.mb-0.text-center 
+            .tarjeta.bg4
+                p.p-3.pt-4.mb-0.text-center 
                   strong Compuestos yodados. Isodine, Prepodine, Rapidine, Handine, Yodosan
+              
+            AcordionA(tipo="a" clase-tarjeta="tarjeta").acordion_fixed
+              .row(titulo="Ventajas")
+                ul.lista-ul--color.lista-ul--separador
+                  li 
+                    i.fas.fa-chevron-right
+                    | Amplio espectro.
+                  li 
+                    i.fas.fa-chevron-right
+                    | Acción germicida rápida.
+                  li 
+                    i.fas.fa-chevron-right
+                    | Son estables.
+                  li 
+                    i.fas.fa-chevron-right
+                    | Disuelven los depósitos minerales.
+                  li 
+                    i.fas.fa-chevron-right
+                    | No son corrosivos.
+                  li 
+                    i.fas.fa-chevron-right
+                    | No irritan la piel.
+                  li 
+                    i.fas.fa-chevron-right
+                    | Se pueden hacer control visual de la concentración.
+                  li 
+                    i.fas.fa-chevron-right
+                    | Tiene buena penetración.
 
-                AcordionA(tipo="a" clase-tarjeta="tarjeta")
-                  .row(titulo="Ventajas")
-                    ul.lista-ul--color.lista-ul--separador
-                      li 
-                        i.fas.fa-chevron-right
-                        | Amplio espectro.
-                      li 
-                        i.fas.fa-chevron-right
-                        | Acción germicida rápida son estables.
-                      li 
-                        i.fas.fa-chevron-right
-                        | Disuelven los depósitos minerales.
-                      li 
-                        i.fas.fa-chevron-right
-                        | No son corrosivos.
-                      li 
-                        i.fas.fa-chevron-right
-                        | No irritan la piel.
-                      li 
-                        i.fas.fa-chevron-right
-                        | Se pueden hacer control visual de la concentración.
-                      li 
-                        i.fas.fa-chevron-right
-                        | Tiene buena penetración.
-
-
-
-                  div(titulo="Desventajas")
-                    ul.lista-ul--color.lista-ul--separador
-                      li 
-                        i.fas.fa-chevron-right
-                        | Solamente pueden emplearse en desinfecciones.
-                      li 
-                        i.fas.fa-chevron-right
-                        | Su pH efectivo está entre 2 – 4.
-                      li 
-                        i.fas.fa-chevron-right
-                        | Forma espuma a presión.
-                      li 
-                        i.fas.fa-chevron-right
-                        | Se necesita un buen enjuague para removerlos.
-                      li 
-                        i.fas.fa-chevron-right
-                        | Son costosos.
+              div(titulo="Desventajas")
+                ul.lista-ul--color.lista-ul--separador
+                  li 
+                    i.fas.fa-chevron-right
+                    | Solamente pueden emplearse en desinfecciones.
+                  li 
+                    i.fas.fa-chevron-right
+                    | Su pH efectivo está entre 2 – 4.
+                  li 
+                    i.fas.fa-chevron-right
+                    | Forma espuma a presión.
+                  li 
+                    i.fas.fa-chevron-right
+                    | Se necesita un buen enjuague para removerlos.
+                  li 
+                    i.fas.fa-chevron-right
+                    | Son costosos.
 
         .col-md-4.col-lg.mb-5.mb-lg-0
           .tarjeta-avatar
             img.img-t(src='@/assets/curso/tema3/img40.svg' alt='AvatarTop')
-            .tarjeta.bg2
-              p.p-4.mb-0.text-center  
+            .tarjeta.bg4
+              p.p-3.pt-4.mb-0.text-center  
                 strong Sanit 10, B Quad, Fórmula 55 X, Bacterium, Timsen
                 
-              AcordionA(tipo="a" clase-tarjeta="tarjeta")
-                  .row(titulo="Ventajas")
-                    ul.lista-ul--color.lista-ul--separador
-                      li 
-                        i.fas.fa-chevron-right
-                        | No son corrosivos ni tóxicos.
-                      li 
-                        i.fas.fa-chevron-right
-                        | Son estables durante el almacenamiento.
-                      li 
-                        i.fas.fa-chevron-right
-                        | Acción bactericida rápida.
-                      li 
-                        i.fas.fa-chevron-right
-                        | Tienen buena penetración.
-                      li 
-                        i.fas.fa-chevron-right
-                        | Previenen y eliminan olores.
-                      li 
-                        i.fas.fa-chevron-right
-                        | No irritan la piel.
-                      li 
-                        i.fas.fa-chevron-right
-                        | Forman una película protectora bacteriostática sobre la superficie que actúa.
+            AcordionA(tipo="a" clase-tarjeta="tarjeta").acordion_fixed
+              .row(titulo="Ventajas")
+                ul.lista-ul--color.lista-ul--separador
+                  li 
+                    i.fas.fa-chevron-right
+                    | No son corrosivos ni tóxicos.
+                  li 
+                    i.fas.fa-chevron-right
+                    | Son estables durante el almacenamiento.
+                  li 
+                    i.fas.fa-chevron-right
+                    | Acción bactericida rápida.
+                  li 
+                    i.fas.fa-chevron-right
+                    | Tienen buena penetración.
+                  li 
+                    i.fas.fa-chevron-right
+                    | Previenen y eliminan olores.
+                  li 
+                    i.fas.fa-chevron-right
+                    | No irritan la piel.
+                  li 
+                    i.fas.fa-chevron-right
+                    | Forman una película protectora bacteriostática sobre la superficie que actúa.
 
 
-                  div(titulo="Desventajas")
-                    ul.lista-ul--color.lista-ul--separador
-                      li 
-                        i.fas.fa-chevron-right
-                        | Aprobados por la industria de los alimentos.
-                      li 
-                        i.fas.fa-chevron-right
-                        | Tienen amplio espectro.
-                      li 
-                        i.fas.fa-chevron-right
-                        | Económicos.
-                      li 
-                        i.fas.fa-chevron-right
-                        | Acción rápida.
-                      li 
-                        i.fas.fa-chevron-right
-                        | No son selectivos.
-                      li 
-                        i.fas.fa-chevron-right
-                        | Fáciles de adquirir y dosificar.
-                      li 
-                        i.fas.fa-chevron-right
-                        | Facilidad para enjuagar.
-                      li 
-                        i.fas.fa-chevron-right
-                        | No forma espuma   
+              div(titulo="Desventajas")
+                ul.lista-ul--color.lista-ul--separador
+                  li 
+                    i.fas.fa-chevron-right
+                    | Son costosos.
+                  li 
+                    i.fas.fa-chevron-right
+                    | No son esporicidas.
+                  li 
+                    i.fas.fa-chevron-right
+                    | No soportan las contaminaciones orgánicas.
+                  li 
+                    i.fas.fa-chevron-right
+                    | Son difíciles de dosificar.
+                  li 
+                    i.fas.fa-chevron-right
+                    | No se consigue tan fácil.   
 
     separador
 
@@ -284,7 +276,7 @@
         .row.align-items-center
           .col-md-6.mb-4.mb-md-0
             h4 Inmersión
-            p Se realiza con nebulizadores que gradúan el tamaño de gota desde 50 a 200 μm. El desinfectante actúa en la fase líquida humedeciendo las superficies y en pequeña proporción también en fase gaseosa.
+            p El proceso de desinfección se realiza sumergiendo el objeto a desinfectar en solución desinfectante durante un tiempo mínimo de contacto.
 
           .col-md-6
             figure
@@ -376,8 +368,40 @@
               th 50
               td 25 - 35
           
-   
-              
+    .row.mb-5
+      p.mb-5 Además, se debe tener en cuenta que los desinfectantes periódicamente requieren ser rotados y aplicar dosis de choque, es decir durante un tiempo la concentración normal y un día duplicar esta concentración. Observemos en la siguiente tabla la forma de uso del hipoclorito de sodio o de calcio en desinfecciones:
+      .col-lg-10.mx-auto
+        .titulo-sexto.color-acento-contenido(data-aos="fade-right").mb-4
+          h5 Tabla 3.
+          span <em>Uso del hipoclorito de sodio o de calcio en desinfecciones</em>
+
+        .tabla-b.color-acento-contenido
+          table
+            caption 
+              strong Nota. 
+              | Borrero y Urrea, 2007, p. 140.
+            thead
+              tr.tabla-b__header
+                th Lugar de Desinfección
+                th Dosis en p.p.m
+                th Tiempo de aplicación
+            tr
+              th Pisos, paredes, mesas,estanterías y herramientas
+              td 250 a 300
+              td 1 -2 minutos
+            tr
+              th Uso humano
+              td 50
+              td 5 minutos
+            tr
+              th Frutas y hortalizas carnosas con cutícula cerosa (cítricos, manzanas, etc.)
+              td 100 a 200
+              td 2 - 3 minutos
+            tr
+              th Hortalizas de hojas
+              td 70 a 100
+              td Máximo 15 Segundos
+      
 </template>
 
 <script>

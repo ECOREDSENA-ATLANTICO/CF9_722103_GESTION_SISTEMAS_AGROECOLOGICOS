@@ -70,7 +70,7 @@
               ul.lista-ul--color.lista-ul--separador
                 li 
                   i.fas.fa-chevron-right
-                  | Aprobados por la industria de los alimentos.
+                  | Daños por insectos, roedores, aves, microorganismos.
                 li 
                   i.fas.fa-chevron-right
                   | Daños mecánicos por rupturas, golpes, caída, vibraciones, cambios climáticos.
@@ -120,7 +120,7 @@
               figure
                 img.mb-4.img-t.m-auto(src='@/assets/curso/tema4/img56.svg', alt='')
             .col-lg-10
-              p.mb-0 Para llevar a cabo la limpieza se necesita un lugar, personal y equipos con condiciones adecuadas de higiene y, en algunas ocasiones agua potable debido a que existen diversos métodos, los cuales pueden clasificar en secos y húmedos, su selección se da acuerdo a las características del producto. (Borrero y Urrea, 2007).
+              p.mb-0 Los empaques se clasifican principalmente en primarios, secundarios y terciarios. Siendo los empaques primarios aquellos que contienen, están en contacto directo y se encargan de presentar de forma simple el artículo o producto. Los empaques secundarios son los encargados de contener el empaque primario, permitiendo su agrupación (uno o varios empaques primarios) proporcionando protección, facilitando la manipulación, favoreciendo la exposición y presentación, además tienen la particularidad de que se pueden separar del producto sin verse afectadas sus características.
       .col-lg-3.mb-4.mb-lg-0(data-aos="fade-left")
         figure
           img.img-t.m-auto(src='@/assets/curso/tema4/img57.png', alt='')
@@ -179,7 +179,7 @@
                 td Plano, ondulado. 
                 td Cajas de cartón.
                 td Económico, reciclable, fácil manipulación.
-                td Costo elevado, corrosión, difícil eliminación, pesado, voluminoso.
+                td Muy frágil, sensible a la humedad y al calor, poco sólido, no reutilizable.
               tr
                 th Plástico
                 td Polietileno, poliestireno (PVC).
@@ -189,7 +189,7 @@
               tr
                 th Papel
                 td 
-                td Bolas, toneles, bidones, cajas, contenedores semirígidos y rígidos.
+                td 
                 td Bajos costos, fácil eliminación, reciclable.
                 td Muy frágil, sensible a la humedad y al calor.
               tr
