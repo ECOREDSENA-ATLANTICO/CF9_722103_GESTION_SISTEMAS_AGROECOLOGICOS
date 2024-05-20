@@ -342,6 +342,11 @@ export default {
         cargo: 'Corrección de estilo',
         centro: 'Regional Distrito Capital – Centro de Diseño y Metrología.',
       },
+      {
+        nombre: 'Leyson Fabian Castaño Perez',
+        cargo: 'Soporte organizacional',
+        centro: 'Regional Tolima – Centro de Comercio y Servicios .',
+      },
     ],
     desarrolloProducto: [
       {
