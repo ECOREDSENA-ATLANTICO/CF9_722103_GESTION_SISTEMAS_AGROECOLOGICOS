@@ -396,25 +396,4 @@ export default {
     creativeCommons:
       'Licencia creative commons CC BY-NC-SA<br><a href="https://creativecommons.org/licenses/by-nc-sa/2.0/" target="_blank">ver licencia</a>',
   },
-  // creditosInicio: [
-  //   {
-  //     titulo: 'En alianza',
-  //     contenido: [
-  //       require('@/assets/template/logo-sena-naranja.svg'),
-  //       require('@/assets/template/mintic.jpg'),
-  //       require('@/assets/template/minsalud.jpg'),
-  //     ],
-  //   },
-  //   {
-  //     titulo: 'En compañía',
-  //     contenido: [
-  //       require('@/assets/template/presidencia.jpg'),
-  //       require('@/assets/template/ecopetrol.jpg'),
-  //     ],
-  //   },
-  //   {
-  //     titulo: 'Una iniciativa',
-  //     contenido: [require('@/assets/template/santander.jpg')],
-  //   },
-  // ],
 }
