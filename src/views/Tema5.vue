@@ -312,7 +312,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
             h4 Convivencia
-            p Se refiere a las características que hacen qué un empaque sea el ideal para un determinado producto. Aspectos como el peso, la ergonomía y la durabilidad, entre otros, deben ser considerados al 5ionar un material. Los productos que no se consumen completamente una vez abiertos y que pueden permanecer empacados por mucho tiempo, requieren de un material de empaque sea duradero.
+            p Se refiere a las características que hacen qué un empaque sea el ideal para un determinado producto. Aspectos como el peso, la ergonomía y la durabilidad, entre otros, deben ser considerados al seleccionar un material. Los productos que no se consumen completamente una vez abiertos y que pueden permanecer empacados por mucho tiempo, requieren de un material de empaque sea duradero.
           .col-md-6
             figure
               img(src='@/assets/curso/tema5/img74.png', alt='Texto que describa la imagen')

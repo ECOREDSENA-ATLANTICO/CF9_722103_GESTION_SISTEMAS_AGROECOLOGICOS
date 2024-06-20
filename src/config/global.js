@@ -70,13 +70,13 @@ export default {
             icono: 'far fa-file-alt',
             numero: '3.1',
             titulo: 'Clasificación',
-            hash: 't_2_1',
+            hash: 't_3_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '3.2',
             titulo: 'Procedimiento y dosificación',
-            hash: 't_2_2',
+            hash: 't_3_2',
           },
         ],
       },
@@ -262,7 +262,7 @@ export default {
       referencia:
         'Villamizar de Borrero, F., & Ospina Camacho, J. E. (2000). Frutas y hortalizas: manejo tecnológico postcosecha.',
       tipo: 'Artículo',
-      link: 'https://repositorio.sena.edu.co/handle/11404/4707',
+      link: 'https://repository.agrosavia.co/handle/20.500.12324/31661',
     },
     {
       tema: 'Limpieza',
@@ -292,14 +292,14 @@ export default {
         'Ospina Arias, J. C. (2015). Fundamentos de envases y embalajes.',
       tipo: 'Artículo',
       link:
-        'https://repositorio.sena.edu.co/bitstream/handle/11404/2526/fundamentos_envases_embalajes.pdf?sequence=1&isAllowed=y',
+        'https://repositorio.cuc.edu.co/bitstream/handle/11323/1105/Fundamentos%20de%20envases%20y%20embalajes.pdf?sequence=1&isAllowed=y',
     },
     {
       tema: 'Envases y empaques',
       referencia:
         'López Millán, M., & Díaz Gutiérrez, A. (2001). Empaques y embalajes para frutas y hortalizas frescas.',
       tipo: 'Artículo',
-      link: 'https://repositorio.sena.edu.co/handle/11404/6514',
+      link: 'https://core.ac.uk/download/421923673.pdf',
     },
   ],
   creditos: [

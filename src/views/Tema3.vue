@@ -335,7 +335,7 @@
     .row.mb-4
       .col-lg-8(data-aos="fade-right")
         .cajon.p-4.ps-5.clr-paleYellow.mb-4
-          p.mb-0 La clasificación de los suelos está directamente ligada con las propiedades físicas, químicas y biológicas y con otros criterios que pueden variar por países. Sin embargo, existe una clasificación de suelos a nivel mundial llamada Soil Taxonomy de la United States Department of Agriculture (USDA), que clasifica los suelos con base a la concepción de “Horizonte diagnóstico” e indica 12 órdenes y cuentan diferentes niveles jerárquicos que parten desde los subórdenes hasta las series, veamos:
+          p.mb-0 El tiempo de exposición del desinfectante está directamente relacionado con su concentración, por ejemplo, para concentraciones desde 50 a 300 ppm de cloro el tiempo oscila desde 1 a 30 minutos. Además, la concentración y tiempo cambia según la zona o producto a desinfectar tal como se evidencia en la siguiente tabla. 
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-left")
         figure
           img.img-t.m-auto(src='@/assets/curso/tema3/img47.png', alt='')

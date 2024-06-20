@@ -154,7 +154,7 @@
               caption
                 strong Nota 
                 span 
-                  | Chala, L. A. (2009) 
+                  | Chala, L. A. (2009)  Chala, L. A. (2009) https://bibliotecadigital.ccb.org.co/bitstream/handle/11520/3049/2949_empaques_y_embalajes2.pdf
               thead
                 tr.tabla-b__header
                   th Materiales

@@ -52,7 +52,7 @@
     figure.mb-4
         img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/tema2/img25.svg', alt='')
         h2.d-inline-block.mb-0 Métodos húmedos
-    p.mb-4 La limpieza mediante métodos húmedos requiere del empleo de agua y en algunas ocasiones para mejorar el resultado se agrega soluciones o productos químicos con propiedades desinfectantes. Por tanto, mediante este método no solo se logra eliminar materiales extraños y contaminantes, sino que también se puede remover los residuos de fertilizantes y agroquímicos. Ahora revisemos cuales son los métodos húmedos más empleados: 
+    p.mb-4 La limpieza mediante métodos húmedos requiere del empleo de agua y, en algunas ocasiones para mejorar el resultado se agrega soluciones o productos químicos con propiedades desinfectantes. Por tanto, mediante este método no solo se logra eliminar materiales extraños y contaminantes, sino que también se puede remover los residuos de fertilizantes y agroquímicos. Ahora revisemos cuales son los métodos húmedos más empleados:  
 
 
     .row.justify-content-center.mb-5
@@ -62,8 +62,8 @@
             figure
               img(src="@/assets/curso/tema2/img26.png", alt="alt")
           .crd_hover_txt--body.text-center
-            h6.mb-3 Reporte de ventas diarias
-            p.mb-0.text-white Con este tipo de reportes, los gerentes podrán supervisar específicamente, la labor de cada vendedor y de esta manera, saber en qué les va bien y en cuáles actos hay que mejorar. Aquí también, va a encontrar si su fuerza de ventas está entendiendo sus estrategias y le sea más fácil incentivarlos a aumentar su productividad.
+            h6.mb-3 Inmersión
+            p.mb-0.text-white Consiste en sumergir los productos en agua por un periodo de tiempo determinado, logrando que las partículas más pesadas se sedimenten, siendo importante resaltar que constantemente se debe realizar el cambio de agua para la nuevamente la contaminación del producto. A este método se le puede adicionar y mejorar mediante un sistema de agitación (neumática o mecánica).
 
       .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
@@ -71,8 +71,8 @@
             figure
               img(src="@/assets/curso/tema2/img27.png", alt="alt")
           .crd_hover_txt--body.text-center
-            h6.mb-3 Reporte de ventas semanal
-            p.mb-0.text-white Con estos reportes semanales, podrá encontrar las dificultades que pueda tener algún o algunos vendedores y evitar que se pierdan los clientes fijos. Reportar semanalmente, le permite tener un equipo de ventas fortalecido y bien direccionado, con las correcciones necesarias para lograr las metas de ventas propuestas.
+            h6.mb-3 Aspersión
+            p.mb-0.text-white Con este método la aplicación de agua se realiza mediante presión, la cual varía de acuerdo al producto, es una especie de ducha, pero con la singularidad que el agua puede ser por encima y por debajo. Existen varios factores que influyen en la eficiencia de la aspersión, como por ejemplo la presión del agua, la cantidad, forma y posición de los orificios por donde sale el agua, el espacio entre el producto y la ducha, el tiempo de exposición y el tipo de producto a limpiar.
 
       .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
@@ -80,8 +80,9 @@
             figure
               img(src="@/assets/curso/tema2/img28.png", alt="alt")
           .crd_hover_txt--body.text-center
-            h6.mb-3 Reporte de ventas mensuales
-            p.mb-0.text-white Con este tipo de reportes usted va a hacer un seguimiento específico a su equipo de ventas respecto a sus objetivos empresariales a largo plazo.
+            h6.mb-3 Flotación
+            p.mb-0.text-white Se realiza mediante corrientes de agua y la diferencia de densidades, por tanto, una corriente de agua se encarga del producto a limpiar, mientras que otras corrientes arrastran con las partículas a retirar (livianas y pesadas).
+
 
 
     .cajon.p-4.ps-5.mb-4.clr--lightorange
