@@ -16,7 +16,7 @@
         .cajon.p-4.ps-5.mb-4.clr-paleYellow
           p.mb-0 El transporte consiste en movilizar los productos a diferentes destinos internos (cultivo al lugar de poscosecha) y externos (hacia la comercialización y consumidor) para lo cual se emplean vehículos y embalajes que deben proporcionar condiciones idóneas, además de comodidad, higiene e inocuidad, evitando generar daños, deterioro, contaminación física, química y microbiana y pérdidas de producto. 
       
-        p.mb-5 Además, a la hora de transportar no se deben mezclar productos (frutas o verduras con agroquímicos) se requiere determinar el costo del transporte, analizar el estado de las vías por donde se va a transitar, determinar el tiempo de recorrido, conocer el tipo de empaque y embalaje. Durante esta etapa de la poscosecha, se pueden registrar riesgos de tipo mecánico, biológico, climáticos, contaminación, robos y hurtos, que afectan el producto transportado y en algunas ocasiones genera daños en los medios de transporte. Colombia, P. (2003) Para conocer sobre los riegos durante el transporte, te invitamos a ver el siguiente recurso:
+        p.mb-5 Además, a la hora de transportar no se deben mezclar productos (frutas o verduras con agroquímicos) se requiere determinar el costo del transporte, analizar el estado de las vías por donde se va a transitar, determinar el tiempo de recorrido, conocer el tipo de empaque y embalaje. Durante esta etapa de la poscosecha, se pueden registrar riesgos de tipo mecánico, biológico, climáticos, contaminación, robos y hurtos, que afectan el producto transportado y en algunas ocasiones genera daños en los medios de transporte. Colombia, P. (2003) Para conocer sobre los riegos durante el transporte, te invitamos analizar el siguiente recurso:
      
       .row.col-lg-10.mx-auto.mb-4
           .p-4.clr--lightgreen.mb-2(data-aos="fade-left")
@@ -265,7 +265,7 @@
           img.img-t.m-auto(src='@/assets/curso/tema5/img60.png', alt='')
       .col-lg-8(data-aos="fade-right")
         .cajon.p-4.ps-5.mb-4.clr--lightgreen2
-          p.mb-0 Como lo indica la Cartilla empaques y embalajes para exportación (Colombia, P. 2003), existen aspectos importantes que deben ser tenidos en cuenta a la hora de seleccionar el material de embalaje y empaque, por ejemplo, deben tener compatibilidad con el producto a contener, propiedades de protección y estabilidad, operabilidad, conveniencia, aspectos mercadológicos, económicos y legales, disponibilidad y factibilidad. Además de resistencia la cual se establece en relación a la facultad de sostener y resistir el producto a empacar, es decir si se pueden apilar y logran soportan encima sin dañarse varias veces su propio peso, clasificándose en autoportantes, semiportantes y no autoportantes, tal como se puede apreciar a continuación
+          p.mb-0 Como lo indica la Cartilla empaques y embalajes para exportación (Colombia, P. 2003), existen aspectos importantes que deben ser tenidos en cuenta a la hora de seleccionar el material de embalaje y empaque, por ejemplo, deben tener compatibilidad con el producto a contener, propiedades de protección y estabilidad, operabilidad, conveniencia, aspectos mercadológicos, económicos y legales, disponibilidad y factibilidad. Además de resistencia la cual se establece en relación con la facultad de sostener y resistir el producto a empacar, es decir si se pueden apilar y logran soportan encima sin dañarse varias veces su propio peso, clasificándose en autoportantes, semi portantes y no autoportantes, tal como se puede apreciar a continuación
       
     .tarjeta.p-4.mb-5.clr-paleYellow
       SlyderA(tipo="b")
@@ -304,7 +304,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
             h4 Operacionalización
-            p Se refiere a la actitud del material para ser operado dentro de una línea de empacado. Por ejemplo, si se utiliza un material de empaque que no tiene buenas propiedades del izamiento se puede atascar en la línea de empacado.
+            p Se refiere a la actitud del material para ser operado dentro de una línea de empacado. Por ejemplo, si se utiliza un material de empaque que no tiene buenas propiedades del izamiento, se puede atascar en la línea de empacado.
           .col-md-6
             figure
               img(src='@/assets/curso/tema5/img73.png', alt='Texto que describa la imagen')
@@ -328,7 +328,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
             h4 Aspectos económicos
-            p Costos de materiales, de almacenamiento, de producción. Un material de empaque determinado puede tener un costo total que su utilización como para un producto, sea poco rentable.
+            p Costos de materiales, de almacenamiento, de producción. Un material de empaque determinado puede tener un costo total que su utilización, como para un producto, sea poco rentable.
           .col-md-6
             figure
               img(src='@/assets/curso/tema5/img76.png', alt='Texto que describa la imagen')
@@ -362,7 +362,7 @@
               figure
                 img.mb-4.img-t.m-auto(src='@/assets/curso/tema5/img79.svg', alt='')
             .col-lg-10
-              p.mb-0 Pero su efectividad está sujeta al estado de las vías, que en varios territorios no están pavimentadas y cuando llueve se dificulta el tránsito. Dentro del grupo de automotores empleados para el transporte, específicamente los carros, existen gran variedad, con diferentes capacidades, diseños y dispositivos como la refrigeración y atmósferas controladas que ayudan a la conservación y mantenimiento de la calidad. A continuación podrá identificar los métodos de transporte usados en nuestro país:
+              p.mb-0 Pero su efectividad está sujeta al estado de las vías, que en varios territorios no están pavimentadas y cuando llueve se dificulta el tránsito. Dentro del grupo de automotores empleados para el transporte, específicamente los carros, existen gran variedad, con diferentes capacidades, diseños y dispositivos como la refrigeración y atmósferas controladas que ayudan a la conservación y mantenimiento de la calidad. A continuación, podrá identificar los métodos de transporte usados en nuestro país:
       
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-left")
         figure
@@ -377,7 +377,7 @@
               img(src="@/assets/curso/tema5/img81.png", alt="alt")
           .crd_hover_txt--body.text-center
             h6.mb-3 Transporte fluvial y marítimo
-            p.mb-0.text-white Como su nombre lo indica este transporte se da mediante vías acuáticas (mares, ríos, canales) y se emplea a nivel internacional barcos de carga y a nivel local los desplazamientos se realizan en canoas y lanchas.
+            p.mb-0.text-white Como su nombre lo indica, este transporte se da mediante vías acuáticas (mares, ríos, canales) y se emplea a nivel internacional barcos de carga y a nivel local los desplazamientos se realizan en canoas y lanchas.
 
       .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
@@ -395,7 +395,7 @@
               img(src="@/assets/curso/tema5/img83.png", alt="alt")
           .crd_hover_txt--body.text-center
             h6.mb-3 Transporte ferroviario
-            p.mb-0.text-white Aunque este tipo de transporte tiene un menor costo y permite transportar productos a distancias largas, en Colombia no están empleados ya que requiere de la existencia de cías férreas y de vagones.
+            p.mb-0.text-white Aunque este tipo de transporte, tiene un menor costo y permite transportar productos a distancias largas, en Colombia no están empleados ya que requiere de la existencia de cías férreas y de vagones.
     
 
 </template>

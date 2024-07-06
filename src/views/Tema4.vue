@@ -20,7 +20,7 @@
       .row.justify-content-center.mb-5
         .col-10.col-md-7.col-lg-5.mb-5.mb-lg-0(data-aos="fade-right")
           .tarjeta-icon
-            img.img-t.mx-auto(src='@/assets/curso/tema4/img50.svg' alt='AvatarTop')
+            img.img-t.mx-auto(src='@/assets/curso/tema4/img50.svg' alt='Imagen Decorativa')
             .clr--acccent-color.text-center.p-4.pt-5
               h5.mb-0 Envase
             .clr--lightorange.text-center.p-3
@@ -29,7 +29,7 @@
        
         .col-10.col-md-7.col-lg-5.mb-5.mb-lg-0(data-aos="fade-left")
           .tarjeta-icon
-            img.img-t.mx-auto(src='@/assets/curso/tema4/img51.svg' alt='AvatarTop')
+            img.img-t.mx-auto(src='@/assets/curso/tema4/img51.svg' alt='Imagen Decorativa')
             .clr--green.text-center.p-4.pt-5
               h5.mb-0 Empaque
             .clr--lightgreen2.text-center.p-3
@@ -42,24 +42,24 @@
           .row
             .col-lg-2
               figure
-                img.img-t.m-auto(src='@/assets/curso/tema4/img52.svg', alt='')
+                img.img-t.m-auto(src='@/assets/curso/tema4/img52.svg', alt='Imagen Decorativa')
             .col-lg-10
               p.mb-0 Es de aclarar que ni los empaques ni los envases mejoran la calidad, sino que la conservan, siendo indispensable empacar productos limpios, seleccionados, clasificados y desinfectados. Tampoco los empaques sustituyen los tratamientos para la conservación como la refrigeración, teniendo que la adecuada conservación se logra con un empaque apropiado y un almacenamiento en condiciones idóneas de acuerdo a los requerimientos de cada producto.
       
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         figure
-          img.img-t.m-auto(src='@/assets/curso/tema4/img53.png', alt='')
+          img.img-t.m-auto(src='@/assets/curso/tema4/img53.png', alt='Imagen Decorativa')
       
       p.mb-5 Cada empaque es único y existe gran variedad de materiales, formas, colores, tamaños, diseños y estilos, los cuales varían de acuerdo con el producto que se desee empacar. Por tanto, a la hora de seleccionarlo es importante tener en cuenta el comportamiento fisiológico y las características físicas, la forma, volumen, peso, tamaño, firmeza del producto a empacar, al igual que la temperatura, humedad, luz y demás condiciones ambientales que puedan influir.
 
       figure.mb-5
-        img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/tema2/img25.svg', alt='')
+        img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/tema2/img25.svg', alt='Imagen Decorativa')
         h2.d-inline-block.mb-0 Funciones y propiedades
 
       .row
         .col-lg-1
           figure.mb-4
-            img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/tema4/img54.svg', alt='')
+            img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/tema4/img54.svg', alt='Imagen Decorativa')
         .col-lg-11
           p.mb-5 Los empaques cumplen diferentes funciones, las cuales como se observa en la figura 5 se pueden clasificar de forma general en proteger, conservar y distribuir. Es decir, los empaques tienen la función de contener el producto para mostrarlo en las condiciones y cantidades demandadas por el consumidor, proteger los artículos de los diferentes riesgos y factores externos que puedan generar deterioro manteniendo su calidad y facilitar la manipulación, distribución y transporte; a continuación se presentan algunas de las funciones de los empaques:
 
@@ -97,7 +97,7 @@
                   | Ser una estrategia comercial y herramienta de posicionamiento.
         .col-lg-3(data-aos="fade-right")
           figure.mb-4
-            img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/tema4/img55.png', alt='')
+            img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/tema4/img55.png', alt='Imagen Decorativa')
           
     .cajon.p-4.ps-5.mb-5.clr--lightorange
       p.mb-0 Sin embargo, los empaques también cumplen una función comercial y de comunicación ya que posibilitan la exhibición, exposición y localización, siendo fundamental para la aceptación y diferenciación del producto la apariencia externa y el diseño gráfico del empaque, el cual proporciona un valor agregado mediante un adecuado diseño y presentación que informe, identifique y establezca sus características de forma atractiva, motivando así la promoción, marketing y compra. Veamos en el siguiente recurso la función ecológica de los empaques en las diferentes industrias:
@@ -118,12 +118,12 @@
           .row
             .col-lg-2
               figure
-                img.mb-4.img-t.m-auto(src='@/assets/curso/tema4/img56.svg', alt='')
+                img.mb-4.img-t.m-auto(src='@/assets/curso/tema4/img56.svg', alt='Imagen Decorativa')
             .col-lg-10
               p.mb-0 Los empaques se clasifican principalmente en primarios, secundarios y terciarios. Siendo los empaques primarios aquellos que contienen, están en contacto directo y se encargan de presentar de forma simple el artículo o producto. Los empaques secundarios son los encargados de contener el empaque primario, permitiendo su agrupación (uno o varios empaques primarios) proporcionando protección, facilitando la manipulación, favoreciendo la exposición y presentación, además tienen la particularidad de que se pueden separar del producto sin verse afectadas sus características.
       .col-lg-3.mb-4.mb-lg-0(data-aos="fade-left")
         figure
-          img.img-t.m-auto(src='@/assets/curso/tema4/img57.png', alt='')
+          img.img-t.m-auto(src='@/assets/curso/tema4/img57.png', alt='Imagen Decorativa')
 
       p.mb-5 Por último, el empaque terciario permite la fácil manipulación, transporte y distribución de los productos debido a que reúne y contiene los empaques primarios y secundarios. En la siguiente figura se presenta de manera gráfica la clasificación de los empaques de acuerdo al producto: 
 
@@ -134,12 +134,12 @@
             span Clasificación de los empaques
 
           figure
-            img.img-t.m-auto(src='@/assets/curso/tema4/img58.svg', alt='')
+            img.img-t.m-auto(src='@/assets/curso/tema4/img58.svg', alt='Muestra la clasificación de los empaques, primario, secundario y terciario.')
 
       .row.mb-4
         .col-lg-4.mb-4.mb-lg-0(data-aos="fade-left")
           figure
-            img.img-t.m-auto(src='@/assets/curso/tema4/img59.png', alt='')
+            img.img-t.m-auto(src='@/assets/curso/tema4/img59.png', alt='Imagen Decorativa')
         .col-lg-8(data-aos="fade-right")
           p Existe diversas clases de empaques que varían de acuerdo al material en que fueron elaborados, como, por ejemplo, madera, papel, cartón, plástico (polietileno PE, poliéster PET, polipropileno PP, policloruro de vinilo PVC, poliestireno PS, policarbonato PS), fibras vegetales (yute, fique, bambú), vidrio, textil y metal, los cuales tiene sus propias características, utilidades, ventajas y desventajas (Tabla 4); siendo común la existencia de empaques de materiales compuestos, es decir mezclen o combinen diversos materiales con la finalidad lograr mayor protección. En la siguiente tabla se relacionan los materiales con los que se lleva a cabo la producción de los empaques de los distintos productos.
         
@@ -147,7 +147,7 @@
         .col-lg-12
           .titulo-sexto.color-acento-contenido(data-aos="fade-right").mb-4
             h5 Tabla 4.
-            span Valores de referencia de las condiciones de pH y Conductividad eléctrica del suelo
+            span Materiales de los empaques
 
           .tabla-b.color-acento-contenido
             table

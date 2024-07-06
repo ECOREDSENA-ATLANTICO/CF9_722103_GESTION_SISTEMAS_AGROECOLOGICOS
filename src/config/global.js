@@ -50,6 +50,12 @@ export default {
             titulo: 'Manejo poscosecha',
             hash: 't_1_1',
           },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.2',
+            titulo: 'Buenas prácticas de manufactura (BPM)',
+            hash: 't_1_2',
+          },
         ],
       },
       {
@@ -214,12 +220,12 @@ export default {
     {
       termino: 'Embalaje',
       significado:
-        'recipiente o envoltura que contiene productos temporalmente y sirve principalmente para agrupar unidades de un producto pensando en su manipulación, transporte y almacenaje',
+        'recipiente o envoltura que contiene productos temporalmente y sirve principalmente para agrupar unidades de un producto pensando en su manipulación, transporte y almacenaje.',
     },
     {
       termino: 'Empaque',
       significado:
-        'recipiente o envoltura que contenga algún producto de consumo para su entrega o exhibición a los consumidores-',
+        'recipiente o envoltura que contenga algún producto de consumo para su entrega o exhibición a los consumidores.',
     },
     {
       termino: 'Equipo',
@@ -248,7 +254,7 @@ export default {
     },
     {
       termino: 'Perecedero',
-      significado: 'alimento que tiene una vida corta',
+      significado: 'alimento que tiene una vida corta.',
     },
     {
       termino: 'Poscosecha',
@@ -258,7 +264,7 @@ export default {
     {
       termino: 'Riesgo',
       significado:
-        'unción de la probabilidad de un efecto nocivo para la salud y de la gravedad de dicho efecto, como consecuencia de un peligro o peligros presente en los alimentos',
+        'unción de la probabilidad de un efecto nocivo para la salud y de la gravedad de dicho efecto, como consecuencia de un peligro o peligros presente en los alimentos.',
     },
   ],
   complementario: [

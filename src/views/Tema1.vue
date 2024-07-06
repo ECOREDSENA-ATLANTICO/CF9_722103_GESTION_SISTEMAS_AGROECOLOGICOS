@@ -11,7 +11,7 @@
     .row.align-items-center.mb-5
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-left")
         figure
-          img.img-t.m-auto(src='@/assets/curso/tema1/img03.png', alt='')
+          img.img-t.m-auto(src='@/assets/curso/tema1/img03.png', alt='Imagen Decorativa')
       .col-lg-8(data-aos="fade-right")
         .cajon.p-4.ps-5.mb-4.clr--lightorange
           p La poscosecha es el tiempo comprendido desde que el producto es recolectado o cosechado hasta su comercialización y ser consumido, sea fresco o procesado. Durante este periodo se realiza un manejo que consiste en una serie de procesos y actividades de acondicionamiento y transformación que permiten retirar elementos no deseados, mejorar la presentación, higiene y calidad nutricional de los productos y, así facilitar su comercialización, incrementando los ingresos de los productores y la utilidad en la industria.
@@ -29,7 +29,7 @@
           .row.justify-content-center.mb-4
             .col-10
               figure
-                img.img-t.m-auto.mb-4(src='@/assets/curso/tema1/img04.svg', alt='') 
+                img.img-t.m-auto.mb-4(src='@/assets/curso/tema1/img04.svg', alt='Imagen Decorativa') 
             
           h4 Directas
           p.m-0 Causadas por la acción de agentes biológicos diferentes al hombre, tales como insectos, hongos, bacterias, roedores, pájaros
@@ -37,7 +37,7 @@
           .row.justify-content-center.mb-4
             .col-10
               figure
-                img.img-t.m-auto.mb-4(src='@/assets/curso/tema1/img05.svg', alt='') 
+                img.img-t.m-auto.mb-4(src='@/assets/curso/tema1/img05.svg', alt='Imagen Decorativa') 
             
           h4 Indirectas
           p.m-0 Causadas por las condiciones climáticas, mal manejo del producto, deficiencias en el transporte y deficiente infraestructura.
@@ -45,7 +45,7 @@
           .row.justify-content-center.mb-4
             .col-10
               figure
-                img.img-t.m-auto.mb-4(src='@/assets/curso/tema1/img06.svg', alt='') 
+                img.img-t.m-auto.mb-4(src='@/assets/curso/tema1/img06.svg', alt='Imagen Decorativa') 
             
           h4 Económicas
           p.m-0 Causadas por situaciones de mercado, su magnitud está determinada por el tipo de daño en el producto.
@@ -70,7 +70,7 @@
               td Causadas por los cambios fisiológicos normales (maduración, respiración, transpiración) que se aceleran con temperaturas elevadas, baja humedad atmosférica, problemas nutricionales o daños físicos causados al producto.
             tr
               th Químicas
-              td La aplicación de agentes químicos pocos días antes de la recolección, contaminan los productos con residuos los cuales les confiere olores y sabores desagradables, además son sustancias tóxicas no aptas para el consumo.
+              td La aplicación de agentes químicos, pocos días antes de la recolección, contaminan los productos con residuos los cuales les confiere olores y sabores desagradables, además son sustancias tóxicas no aptas para el consumo.
             tr
               th Física o mecánicas
               td Lesiones como cortes, roturas, abrasiones o magulladuras que dan lugar a un deterioro fisiológico anormal o a hendiduras o grietas de la piel.
@@ -89,7 +89,7 @@
     .row.justify-content-center.align-items-top.mb-5
       .col-lg-5(data-aos="fade-left")
         figure
-          img.img-t.m-auto(src='@/assets/curso/tema1/img07.png', alt='')
+          img.img-t.m-auto(src='@/assets/curso/tema1/img07.png', alt='Imagen Decorativa')
       .col-lg-7(data-aos="fade-right")
         .mb-3.cajon.o.p-4.ps-5.clr--lightorange
           p El manejo poscosecha es de gran importancia y desempeña un rol fundamental a la hora de evitar o disminuir las pérdidas y mantener la calidad de los productos desde la finalización de la producción (recolección) hasta la comercialización; siendo importante resaltar que es indispensable las buenas prácticas de precosecha y cosecha debido a que en estas fases iniciales influyen directamente en la calidad del producto, mientras que la poscosecha lo que se hace es mantener la calidad y proporcionar un valor agregado contribuyendo a la obtención de buenos precios y ganancias durante el mercadeo. 
@@ -97,10 +97,10 @@
       
     .tarjeta-avatar-b.mb-5
       .tarjeta-avatar-b__img
-        img.img-t.m-auto(src='@/assets/curso/tema1/img08.svg', alt='')
+        img.img-t.m-auto(src='@/assets/curso/tema1/img08.svg', alt='Imagen Decorativa')
       .tarjeta.color-secundario.shadow-sm
         .p-4
-          p De igual manera, la participación ciudadana concibe la política como una herramienta que garantiza el desarrollo social y local de sus comunidades. Esta, opera de manera que las personas, tengan una incidencia dentro de la gestión comunitaria en sus territorios. De esta manera, la participación ciudadana se vuelve garante del avance de las sociedades modernas, porque la participación no solo recae de manera representativa en los órganos políticos, sino también permite que sean los pobladores dentro de sus propias comunidades que gesten procesos de cambio social para el desarrollo social y humano.
+          p El conjunto de prácticas propias del manejo poscosecha comprende la recepción, separación, limpieza, selección y clasificación las cuales están orientadas al acondicionamiento del producto, encontrando también procedimientos de desinfección, empaque, embalaje, transporte y almacenamiento. Siendo importante indicar que el orden de estas actividades puede variar de acuerdo a cada cultivo o también se pueden realizar de forma parcial, total o unificadamente. Ahora revisemos la caracterización de las etapas de poscosecha:
 
       
     .tarjeta.p-4.mb-4.clr-paleYellow
@@ -111,7 +111,7 @@
             p Es la operación inicial del acondicionamiento y se realiza después de la cosecha, cuando los productos se transportan e ingresan al lugar del manejo poscosecha. En esta etapa se lleva a cabo la caracterización y procedencia del producto, además de un análisis de las condiciones en que se recibió mediante un muestreo al azar.
           .col-md-6
             figure
-              img(src='@/assets/curso/tema1/img09.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema1/img09.png', alt='Imagen Decorativa')
 
         .row
           .col-md-6.mb-4.mb-md-0
@@ -120,7 +120,7 @@
          
           .col-md-6
             figure
-              img(src='@/assets/curso/tema1/img10.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema1/img10.png', alt='Imagen Decorativa')
         
         .row
           .col-md-6.mb-4.mb-md-0
@@ -128,15 +128,15 @@
             p La función primordial de esta operación es la eliminación de todo tipo de material extraño o diferente al producto que mezclados o adheridos desmejoran la calidad del insumo.
           .col-md-6
             figure
-              img(src='@/assets/curso/tema1/img11.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema1/img11.png', alt='Imagen Decorativa')
 
         .row
           .col-md-6.mb-4.mb-md-0
             h4 Clasificación
-            p Consiste en separar en diferentes categorías según sus propiedades mas relevantes, como por ejemplo, por variedad, tamaño, forma, color, grado de madurez, textura, ausencia de daños, peso, etc.
+            p Consiste en separar en diferentes categorías según sus propiedades mas relevantes, como, por ejemplo, por variedad, tamaño, forma, color, grado de madurez, textura, ausencia de daños, peso, etc.
           .col-md-6
             figure
-              img(src='@/assets/curso/tema1/img12.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema1/img12.png', alt='Imagen Decorativa')
 
         .row
           .col-md-6.mb-4.mb-md-0
@@ -144,7 +144,7 @@
             p Eliminación o reducción el número de microorganismos presentes por medio de agentes químicos y/o métodos físicos, a un nivel que no comprometa  la inocuidad o la aptitud del producto.           
           .col-md-6
             figure
-              img(src='@/assets/curso/tema1/img13.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema1/img13.png', alt='Imagen Decorativa')
 
         .row
           .col-md-6.mb-4.mb-md-0
@@ -152,7 +152,7 @@
             p Empaque es cualquier material que encierra un artículo con el fin de contenerlo, preservarlo, protegerlo del medio, reducir el contacto con elementos nocivos, distribuir, presentar y facilitar su entrega al consumidor.
           .col-md-6
             figure
-              img(src='@/assets/curso/tema1/img14.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema1/img14.png', alt='Imagen Decorativa')
 
         .row
           .col-md-6.mb-4.mb-md-0
@@ -160,7 +160,7 @@
             p Es el conjunto de materiales, accesorios y demás elementos (Envase, empaque, envoltura), especialmente acondicionados para el transporte, almacenamiento y distribución de los productos, asegurando que lleguen en perfecto estado al consumidor. 
           .col-md-6
             figure
-              img(src='@/assets/curso/tema1/img15.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema1/img15.png', alt='Imagen Decorativa')
 
         .row
           .col-md-6.mb-4.mb-md-0
@@ -168,28 +168,32 @@
             p La finalidad es conservar los excesos de producción, regular la oferta, normalizar los precios o por falta de transporte.
           .col-md-6
             figure
-              img(src='@/assets/curso/tema1/img16.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema1/img16.png', alt='Imagen Decorativa')
 
         .row
           .col-md-6.mb-4.mb-md-0
             h4 Transporte
-            p Es considerada como la operación mas costosa en el canal de comercialización, este se determina de acuerdo a factores como la distancia, la sensibilidad del producto y la capacidad económica del productor
+            p Es considerada como la operación mas costosa en el canal de comercialización, este se determina de acuerdo a factores como la distancia, la sensibilidad del producto y la capacidad económica del productor.
           .col-md-6
             figure
-              img(src='@/assets/curso/tema1/img17.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema1/img17.png', alt='Imagen Decorativa')
     
-    
+    Separador
+
+    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-out-right")
+      h2 1.2. Buenas prácticas de manufactura (BPM)
+
     .row.mb-5
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-left")
         figure
-          img.img-t.m-auto(src='@/assets/curso/tema1/img18.png', alt='')
+          img.img-t.m-auto(src='@/assets/curso/tema1/img18.png', alt='Imagen Decorativa')
       .col-lg-8(data-aos="fade-right")
         p Las buenas prácticas de manufactura son herramientas que permiten obtener productos inocuos y seguros para el consumo, debido a que se enfocan en la higiene, manipulación y seguridad de los alimentos, siendo importante resaltar que estas prácticas tienen gran relevancia y van de la mano con las diferentes actividades que se desarrollan en la poscosecha.
         .p-4.mb-4.clr--lightgreen
           .row
             .col-lg-3
               figure
-                img.mb-4.img-t.m-auto(src='@/assets/curso/tema1/img19.svg', alt='')
+                img.mb-4.img-t.m-auto(src='@/assets/curso/tema1/img19.svg', alt='Imagen Decorativa')
             .col-lg-9
               p Según los 
                 strong decretos 3075 de 1995 y 2674 de 2013 
@@ -202,7 +206,7 @@
         ImagenInfografica.color-acento-botones.mb-5.d-none.d-lg-block
           template(v-slot:imagen)
             figure
-              img.img-t.mx-auto(src='@/assets/curso/tema1/img20.png', alt='Texto que describa la imagen')
+              img.img-t.mx-auto(src='@/assets/curso/tema1/img20.png', alt='Muestra el componente formativo los 6 pasos de las recomendaciones de la BPM, para garantizar la higiene desde el inicio y durante todo el proceso de poscosecha.')
 
           .tarjeta.p-3.px-4.shadow(x="35.3%" y="10%" numero="")
             p.m-0 Durante la cosecha se deben utilizar guantes y recipientes limpios y en buen estado.

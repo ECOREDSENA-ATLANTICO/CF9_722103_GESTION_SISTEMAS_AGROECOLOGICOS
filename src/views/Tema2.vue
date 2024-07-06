@@ -11,19 +11,19 @@
     .row.mb-4
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-left")
         figure
-          img.img-t.m-auto(src='@/assets/curso/tema2/img22.png', alt='')
+          img.img-t.m-auto(src='@/assets/curso/tema2/img22.png', alt='Imagen Decorativa')
       .col-lg-8(data-aos="fade-right")
         p La limpieza es la primera actividad que se realiza para el acondicionamiento de los productos, consiste en eliminar materiales y partículas extrañas que estén adheridos o mezclados con el producto, como por ejemplo restos vegetales (hojas, tallo, flores, raíces, arvenses, cáscaras) animales (insectos, larvas, excreciones) minerales (piedras, tierra, polvo) químicos (fertilizantes, agroquímicos) los cuales generan contaminación, afecten la calidad, presentación y alteran el volumen y peso del producto.
         .cajon.p-4.ps-5.mb-4.clr--lightgreen
           .row
             .col-lg-2
               figure
-                img.mb-4.img-t.m-auto(src='@/assets/curso/tema2/img23.svg', alt='')
+                img.mb-4.img-t.m-auto(src='@/assets/curso/tema2/img23.svg', alt='Imagen Decorativa')
             .col-lg-10
               p.mb-0 Para llevar a cabo la limpieza se necesita un lugar, personal y equipos con condiciones adecuadas de higiene y, en algunas ocasiones agua potable debido a que existen diversos métodos, los cuales pueden clasificar en secos y húmedos, su selección se da acuerdo a las características del producto. (Borrero y Urrea, 2007).
     
     figure.mb-4
-        img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/tema2/img25.svg', alt='')
+        img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/tema2/img25.svg', alt='Imagen Decorativa')
         h2.d-inline-block.mb-0 Métodos secos
 
     p.mb-5 Los métodos de limpieza en seco son económicos y se emplean cuando las características del producto no permiten efectuar la limpieza con agua o sustancias líquidas, a continuación, podrá conocer cuáles son los más empleados: 
@@ -47,10 +47,10 @@
             p Se emplean imanes que se encargan de atraer y adherir los materiales extraños e indeseables.
       .col-lg-4(data-aos="fade-right")
         figure
-          img.img-t.m-auto(src='@/assets/curso/tema2/img24.svg', alt='')
+          img.img-t.m-auto(src='@/assets/curso/tema2/img24.svg', alt='Imagen Decorativa')
 
     figure.mb-4
-        img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/tema2/img25.svg', alt='')
+        img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/tema2/img25.svg', alt='Imagen Decorativa')
         h2.d-inline-block.mb-0 Métodos húmedos
     p.mb-4 La limpieza mediante métodos húmedos requiere del empleo de agua y, en algunas ocasiones para mejorar el resultado se agrega soluciones o productos químicos con propiedades desinfectantes. Por tanto, mediante este método no solo se logra eliminar materiales extraños y contaminantes, sino que también se puede remover los residuos de fertilizantes y agroquímicos. Ahora revisemos cuales son los métodos húmedos más empleados:  
 
@@ -60,16 +60,16 @@
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema2/img26.png", alt="alt")
+              img(src="@/assets/curso/tema2/img26.png", alt="Imagen Decorativa")
           .crd_hover_txt--body.text-center
             h6.mb-3 Inmersión
-            p.mb-0.text-white Consiste en sumergir los productos en agua por un periodo de tiempo determinado, logrando que las partículas más pesadas se sedimenten, siendo importante resaltar que constantemente se debe realizar el cambio de agua para la nuevamente la contaminación del producto. A este método se le puede adicionar y mejorar mediante un sistema de agitación (neumática o mecánica).
+            p.mb-0.text-white Consiste en sumergir los productos en agua por un periodo de tiempo determinado, logrando que las partículas más pesadas se sedimenten, siendo importante resaltar que constantemente se debe realizar el cambio de agua para nuevamente contaminación del producto. A este método se le puede adicionar y mejorar mediante un sistema de agitación (neumática o mecánica).
 
       .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema2/img27.png", alt="alt")
+              img(src="@/assets/curso/tema2/img27.png", alt="Imagen Decorativa")
           .crd_hover_txt--body.text-center
             h6.mb-3 Aspersión
             p.mb-0.text-white Con este método la aplicación de agua se realiza mediante presión, la cual varía de acuerdo al producto, es una especie de ducha, pero con la singularidad que el agua puede ser por encima y por debajo. Existen varios factores que influyen en la eficiencia de la aspersión, como por ejemplo la presión del agua, la cantidad, forma y posición de los orificios por donde sale el agua, el espacio entre el producto y la ducha, el tiempo de exposición y el tipo de producto a limpiar.
@@ -78,7 +78,7 @@
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema2/img28.png", alt="alt")
+              img(src="@/assets/curso/tema2/img28.png", alt="Imagen Decorativa")
           .crd_hover_txt--body.text-center
             h6.mb-3 Flotación
             p.mb-0.text-white Se realiza mediante corrientes de agua y la diferencia de densidades, por tanto, una corriente de agua se encarga del producto a limpiar, mientras que otras corrientes arrastran con las partículas a retirar (livianas y pesadas).
