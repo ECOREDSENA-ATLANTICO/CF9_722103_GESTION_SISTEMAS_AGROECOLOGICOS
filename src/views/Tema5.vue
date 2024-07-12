@@ -344,7 +344,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
             h4 Disponibilidad y factibilidad del proceso
-            p Se debe considerar la disponibilidad de proveedores de los materiales de empaque a seleccionar. Si se selecciona un material de empaque de difícil consecución, es posible, que el exportador no pueda cumplir con entregas por no disponer de material de empaque. Igualmente se debe considerar la factibilidad del proceso requerido para producir el empaque.
+            p Se debe considerar la disponibilidad de proveedores de los materiales de empaque a seleccionar. Si se selecciona un material de empaque de difícil consecución, es posible, que el exportador no pueda cumplir con entregas por no disponer de material de empaque. Igualmente, se debe considerar la factibilidad del proceso requerido para producir el empaque.
           .col-md-6
             figure
               img(src='@/assets/curso/tema5/img78.png', alt='Texto que describa la imagen')

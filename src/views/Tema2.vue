@@ -20,7 +20,7 @@
               figure
                 img.mb-4.img-t.m-auto(src='@/assets/curso/tema2/img23.svg', alt='Imagen Decorativa')
             .col-lg-10
-              p.mb-0 Para llevar a cabo la limpieza se necesita un lugar, personal y equipos con condiciones adecuadas de higiene y, en algunas ocasiones agua potable debido a que existen diversos métodos, los cuales pueden clasificar en secos y húmedos, su selección se da acuerdo a las características del producto. (Borrero y Urrea, 2007).
+              p.mb-0 Para llevar a cabo la limpieza se necesita un lugar, personal y equipos con condiciones adecuadas de higiene y, en algunas ocasiones, agua potable debido a que existen diversos métodos, los cuales pueden clasificar en secos y húmedos, su selección se da acuerdo a las características del producto. (Borrero y Urrea, 2007).
     
     figure.mb-4
         img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/tema2/img25.svg', alt='Imagen Decorativa')
@@ -52,7 +52,7 @@
     figure.mb-4
         img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/tema2/img25.svg', alt='Imagen Decorativa')
         h2.d-inline-block.mb-0 Métodos húmedos
-    p.mb-4 La limpieza mediante métodos húmedos requiere del empleo de agua y, en algunas ocasiones para mejorar el resultado se agrega soluciones o productos químicos con propiedades desinfectantes. Por tanto, mediante este método no solo se logra eliminar materiales extraños y contaminantes, sino que también se puede remover los residuos de fertilizantes y agroquímicos. Ahora revisemos cuales son los métodos húmedos más empleados:  
+    p.mb-4 La limpieza mediante métodos húmedos requiere del empleo de agua y, en algunas ocasiones, para mejorar el resultado se agrega soluciones o productos químicos con propiedades desinfectantes. Por tanto, mediante este método no solo se logra eliminar materiales extraños y contaminantes, sino que también se puede remover los residuos de fertilizantes y agroquímicos. Ahora revisemos cuales son los métodos húmedos más empleados:  
 
 
     .row.justify-content-center.mb-5
@@ -63,7 +63,7 @@
               img(src="@/assets/curso/tema2/img26.png", alt="Imagen Decorativa")
           .crd_hover_txt--body.text-center
             h6.mb-3 Inmersión
-            p.mb-0.text-white Consiste en sumergir los productos en agua por un periodo de tiempo determinado, logrando que las partículas más pesadas se sedimenten, siendo importante resaltar que constantemente se debe realizar el cambio de agua para nuevamente contaminación del producto. A este método se le puede adicionar y mejorar mediante un sistema de agitación (neumática o mecánica).
+            p.mb-0.text-white Consiste en sumergir los productos en agua por un periodo de tiempo determinado, logrando que las partículas más pesadas se sedimenten, siendo importante resaltar que constantemente se debe realizar el cambio de agua para evitar la contaminación del producto. A este método se le puede adicionar y mejorar mediante un sistema de agitación (neumática o mecánica).
 
       .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
@@ -72,7 +72,7 @@
               img(src="@/assets/curso/tema2/img27.png", alt="Imagen Decorativa")
           .crd_hover_txt--body.text-center
             h6.mb-3 Aspersión
-            p.mb-0.text-white Con este método la aplicación de agua se realiza mediante presión, la cual varía de acuerdo al producto, es una especie de ducha, pero con la singularidad que el agua puede ser por encima y por debajo. Existen varios factores que influyen en la eficiencia de la aspersión, como por ejemplo la presión del agua, la cantidad, forma y posición de los orificios por donde sale el agua, el espacio entre el producto y la ducha, el tiempo de exposición y el tipo de producto a limpiar.
+            p.mb-0.text-white Con este método la aplicación de agua se realiza mediante presión, la cual varía de acuerdo con el producto, es una especie de ducha, pero con la singularidad que el agua puede ser por encima y por debajo. Existen varios factores que influyen en la eficiencia de la aspersión, como por ejemplo la presión del agua, la cantidad, forma y posición de los orificios por donde sale el agua, el espacio entre el producto y la ducha, el tiempo de exposición y el tipo de producto a limpiar.
 
       .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
