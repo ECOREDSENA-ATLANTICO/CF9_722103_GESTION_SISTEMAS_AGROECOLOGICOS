@@ -69,7 +69,7 @@
 
       .row.justify-content-center.align-items-top.mb-5
         .col-lg-7(data-aos="fade-right")
-          p En la poscosecha los agentes empleados para la desinfección se pueden clasificar en desinfectantes físicos los cuales tienen la característica de eliminación rápida de la carga microbiana, son fáciles de dosificar, normalmente no requieren enjuague y no son corrosivos, pero el tiempo de exposición es largo y tienen costos altos. En este grupo los más conocidos son los rayos Ultravioletas, tratamientos térmicos (inmersión, curado), la electricidad y las ondas ultrasónicas.
+          p En la poscosecha los agentes empleados para la desinfección se pueden clasificar en desinfectantes físicos los cuales tienen la característica de eliminación rápida de la carga microbiana, son fáciles de dosificar, normalmente no requieren enjuague y no son corrosivos, pero el tiempo de exposición es largo y tienen costos altos. En este grupo los más conocidos son los rayos ultravioleta, tratamientos térmicos (inmersión, curado), la electricidad y las ondas ultrasónicas.
           .mb-3.cajon.o.p-4.ps-5.clr--lightgreen
             .row
               .col-lg-3

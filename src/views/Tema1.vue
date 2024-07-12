@@ -133,7 +133,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
             h4 Clasificación
-            p Consiste en separar en diferentes categorías según sus propiedades mas relevantes, como, por ejemplo, por variedad, tamaño, forma, color, grado de madurez, textura, ausencia de daños, peso, etc.
+            p  Consiste en separar en diferentes categorías según sus propiedades más relevantes, por ejemplo:  variedad, tamaño, forma, color, grado de madurez, textura, ausencia de daños, peso, etc.
           .col-md-6
             figure
               img(src='@/assets/curso/tema1/img12.png', alt='Imagen Decorativa')
